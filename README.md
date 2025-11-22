@@ -4,16 +4,16 @@
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="50%" align="right">
 </p>
 Hi, I'm Omar Baker 👨🏿‍💻
-Data Analyst | Data Scientist | LLM Engineer
-I'm passionate about understanding data, building intelligent AI systems, and experimenting with modern Large Language Models.
-I currently work as a Data Analyst at MT, with 2 years of experience in data analysis and AI.
+     Data Analyst | Data Scientist | LLM Engineer
+     I'm passionate about understanding data, building intelligent AI systems, and experimenting with modern Large Language Models.
+     I currently work as a Data Analyst at MT, with 2 years of experience in data analysis and AI.
 🔥 What I Do
-📊 Analyze and interpret complex data efficiently
-🤖 Build Machine Learning & Deep Learning models
-🧠 Explore and fine-tune LLMs
-🚀 Develop production-ready AI solutions
+     📊 Analyze and interpret complex data efficiently
+     🤖 Build Machine Learning & Deep Learning models
+     🧠 Explore and fine-tune LLMs
+     🚀 Develop production-ready AI solutions
 🛠️ Skills & Tools
-Python • PyTorch • TensorFlow • SQL • Docker • FastAPI • Machine Learning • Deep Learning
+     Python • PyTorch • TensorFlow • SQL • Docker • FastAPI • Machine Learning • Deep Learning
 📌 Featured
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Albert_o35)
 
