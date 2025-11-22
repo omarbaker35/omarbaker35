@@ -46,7 +46,7 @@ I currently work as a **Data Analyst at MT**, with **2 years of experience** in 
 ## 🎓 Udemy Certifications
 
 ### شهادة 1
-![Certificate 1](certificates/photo_2025-11-22_10.57.14.jpeg)
+![Certificate 1](certificates/photo_2025-11-22 10.57.14.jpeg)
 [🔗 View Certificate](رابط_الشهادة_1)
 
 ### شهادة 2
