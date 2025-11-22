@@ -46,8 +46,11 @@ I currently work as a **Data Analyst at MT**, with **2 years of experience** in 
 
   ## 🎓 Certifications
 <center>
-- [[AR] دورة ماجستير في هندسة الذكاء الاصطناعي (AI)](https://www.udemy.com/certificate/UC-845b33a9-d27a-4f57-814d-777bc35ff79b/)
-- [Certificate Name 2](LINK)
-- [Certificate Name 3](LINK)
+  ## 🎓 Certifications
+
+[![Python](https://www.udemy.com/course/artificial-intelligence-bootcamp-arabic/?couponCode=CP251120G2)]([LINK](https://www.udemy.com/course/artificial-intelligence-bootcamp-arabic/?couponCode=CP251120G2))
+[![SQL](https://img.shields.io/badge/Udemy-SQL%20Masterclass-green)](LINK)
+[![ML](https://img.shields.io/badge/Udemy-Machine%20Learning-red)](LINK)
+
 </center>
 
