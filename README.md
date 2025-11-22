@@ -46,7 +46,7 @@ I currently work as a **Data Analyst at MT**, with **2 years of experience** in 
 
   ## 🎓 Certifications
 <center>
-- [Certificate Name 1](LINK)
+- [[AR] دورة ماجستير في هندسة الذكاء الاصطناعي (AI)](https://www.udemy.com/certificate/UC-845b33a9-d27a-4f57-814d-777bc35ff79b/)
 - [Certificate Name 2](LINK)
 - [Certificate Name 3](LINK)
 </center>
