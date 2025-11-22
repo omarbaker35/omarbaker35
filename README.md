@@ -43,7 +43,9 @@ I currently work as a **Data Analyst at MT**, with **2 years of experience** in 
 </p>
 <center><img src='https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611704aa2ca4e403287801480a6c753abf45f3e6242&rid=giphy.gif&ct=s' 
      height=30% width=30% /></center>
+     
 ---
+
 <table>
   <tr>
     <td><img src="certificates/ai1.jpeg" alt="AI" width="300"/></td>
