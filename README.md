@@ -43,9 +43,52 @@ I currently work as a **Data Analyst at MT**, with **2 years of experience** in 
 </p>
 <center><img src='https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611704aa2ca4e403287801480a6c753abf45f3e6242&rid=giphy.gif&ct=s' 
      height=30% width=30% /></center>
-
 ## 🎓 Udemy Certifications
 
-| Certificate | Link |
-|------------|------|
-| Udemy Certificate | [View Certificate](https://www.udemy.com/certificate/UC-845b33a9-d27a-4f57-814d-777bc35ff79b/) |
+### شهادة 1
+![Certificate 1](certificates/photo_2025-11-22_10.57.14.jpeg)
+[🔗 View Certificate](رابط_الشهادة_1)
+
+### شهادة 2
+![Certificate 2](certificates/photo_2025-11-22_10.57.25.jpeg)
+[🔗 View Certificate](رابط_الشهادة_2)
+
+### شهادة 3
+![Certificate 3](certificates/photo_2025-11-22_10.58.06.jpeg)
+[🔗 View Certificate](رابط_الشهادة_3)
+
+### شهادة 4
+![Certificate 4](certificates/photo_2025-11-22_10.58.11.jpeg)
+[🔗 View Certificate](رابط_الشهادة_4)
+
+### شهادة 5
+![Certificate 5](certificates/photo_2025-11-22_10.58.16.jpeg)
+[🔗 View Certificate](رابط_الشهادة_5)
+
+### شهادة 6
+![Certificate 6](certificates/photo_2025-11-22_10.58.21.jpeg)
+[🔗 View Certificate](رابط_الشهادة_6)
+
+### شهادة 7
+![Certificate 7](certificates/photo_2025-11-22_10.58.27.jpeg)
+[🔗 View Certificate](رابط_الشهادة_7)
+
+### شهادة 8
+![Certificate 8](certificates/photo_2025-11-22_10.58.31.jpeg)
+[🔗 View Certificate](رابط_الشهادة_8)
+
+### شهادة 9
+![Certificate 9](certificates/photo_2025-11-22_10.58.38.jpeg)
+[🔗 View Certificate](رابط_الشهادة_9)
+
+### شهادة 10
+![Certificate 10](certificates/photo_2025-11-22_10.58.44.jpeg)
+[🔗 View Certificate](رابط_الشهادة_10)
+
+### شهادة 11
+![Certificate 11](certificates/photo_2025-11-22_10.58.51.jpeg)
+[🔗 View Certificate](رابط_الشهادة_11)
+
+### شهادة 12
+![Certificate 12](certificates/photo_2025-11-22_10.58.56.jpeg)
+[🔗 View Certificate](رابط_الشهادة_12)
