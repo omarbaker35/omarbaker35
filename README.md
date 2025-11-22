@@ -3,17 +3,27 @@
 <p align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="50%" align="right">
 </p>
-Hi, I'm Omar Baker 👨🏿‍💻
-     Data Analyst | Data Scientist | LLM Engineer
-     I'm passionate about understanding data, building intelligent AI systems, and experimenting with modern Large Language Models.
-     I currently work as a Data Analyst at MT, with 2 years of experience in data analysis and AI.
-🔥 What I Do
-     📊 Analyze and interpret complex data efficiently
-     🤖 Build Machine Learning & Deep Learning models
-     🧠 Explore and fine-tune LLMs
-     🚀 Develop production-ready AI solutions
-🛠️ Skills & Tools
-     Python • PyTorch • TensorFlow • SQL • Docker • FastAPI • Machine Learning • Deep Learning
+# Hi, I'm **Omar Baker** 👨🏿‍💻  
+**Data Analyst | Data Scientist | LLM Engineer**
+
+I'm passionate about understanding data, building intelligent AI systems, and experimenting with modern Large Language Models.  
+I currently work as a **Data Analyst at MT**, with **2 years of experience** in data analysis and AI.
+
+---
+
+## 🔥 What I Do  
+- 📊 Analyze and interpret complex data efficiently  
+- 🤖 Build Machine Learning & Deep Learning models  
+- 🧠 Explore and fine-tune LLMs  
+- 🚀 Develop production-ready AI solutions  
+
+---
+
+## 🛠️ Skills & Tools  
+**Python • PyTorch • TensorFlow • SQL • Docker • FastAPI • Machine Learning • Deep Learning**
+
+---
+
 <p align="center">
   
   <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
