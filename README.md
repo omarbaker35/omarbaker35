@@ -44,10 +44,8 @@ I currently work as a **Data Analyst at MT**, with **2 years of experience** in 
 <center><img src='https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611704aa2ca4e403287801480a6c753abf45f3e6242&rid=giphy.gif&ct=s' 
      height=30% width=30% /></center>
 
-  ## 🎓 Certifications
-<center>
-  
-[![Ai](https://img.shields.io/badge/Udemy-Machine%20Learning-red)](https://www.udemy.com/certificate/UC-845b33a9-d27a-4f57-814d-777bc35ff79b/)
+## 🎓 Udemy Certifications
 
-</center>
-
+| Certificate | Link |
+|------------|------|
+| Udemy Certificate | [View Certificate](https://www.udemy.com/certificate/UC-845b33a9-d27a-4f57-814d-777bc35ff79b/) |
