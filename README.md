@@ -46,11 +46,6 @@ I currently work as a **Data Analyst at MT**, with **2 years of experience** in 
 ---
 <table>
   <tr>
-    <td><img src="certificates/DAbootcamp.jpeg" alt="DAbootcamp" width="300"/></td>
-    <td><img src="certificates/DSFM.jpeg" alt="DSFM" width="300"/></td>
-    <td><img src="certificates/MasterAI.jpeg" alt="MasterAI" width="300"/></td>
-  </tr>
-  <tr>
     <td><img src="certificates/ai1.jpeg" alt="AI" width="300"/></td>
     <td><img src="certificates/devops.jpeg" alt="DevOps" width="300"/></td>
     <td><img src="certificates/masterBI.jpeg" alt="MasterBI" width="300"/></td>
@@ -64,6 +59,11 @@ I currently work as a **Data Analyst at MT**, with **2 years of experience** in 
     <td><img src="certificates/pythonMl.jpeg" alt="Python ML" width="300"/></td>
     <td><img src="certificates/pythondele.jpeg" alt="Python DELE" width="300"/></td>
     <td><img src="certificates/soc.jpeg" alt="SOC" width="300"/></td>
+  </tr>
+   <tr>
+    <td><img src="certificates/DAbootcamp.jpeg" alt="DAbootcamp" width="300"/></td>
+    <td><img src="certificates/DSFM.jpeg" alt="DSFM" width="300"/></td>
+    <td><img src="certificates/MasterAI.jpeg" alt="MasterAI" width="300"/></td>
   </tr>
 </table>
 
