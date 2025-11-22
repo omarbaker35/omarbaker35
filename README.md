@@ -44,35 +44,49 @@ I currently work as a **Data Analyst at MT**, with **2 years of experience** in 
 <center><img src='https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611704aa2ca4e403287801480a6c753abf45f3e6242&rid=giphy.gif&ct=s' 
      height=30% width=30% /></center>
 ---
+<table>
+  <tr>
+    <td><img src="certificates/DAbootcamp.jpeg" alt="DAbootcamp" width="300"/></td>
+    <td><img src="certificates/DSFM.jpeg" alt="DSFM" width="300"/></td>
+    <td><img src="certificates/MasterAI.jpeg" alt="MasterAI" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="certificates/ai1.jpeg" alt="AI" width="300"/></td>
+    <td><img src="certificates/devops.jpeg" alt="DevOps" width="300"/></td>
+    <td><img src="certificates/masterBI.jpeg" alt="MasterBI" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="certificates/masterpython.jpeg" alt="MasterPython" width="300"/></td>
+    <td><img src="certificates/powerbiadva.jpeg" alt="PowerBI Adv" width="300"/></td>
+    <td><img src="certificates/pythomlforB.jpeg" alt="Python ML for B" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="certificates/pythonMl.jpeg" alt="Python ML" width="300"/></td>
+    <td><img src="certificates/pythondele.jpeg" alt="Python DELE" width="300"/></td>
+    <td><img src="certificates/soc.jpeg" alt="SOC" width="300"/></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="certificates/DAbootcamp.jpeg" alt="DAbootcamp" width="300"/></td>
+    <td><img src="certificates/DSFM.jpeg" alt="DSFM" width="300"/></td>
+    <td><img src="certificates/MasterAI.jpeg" alt="MasterAI" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="certificates/ai1.jpeg" alt="AI" width="300"/></td>
+    <td><img src="certificates/devops.jpeg" alt="DevOps" width="300"/></td>
+    <td><img src="certificates/masterBI.jpeg" alt="MasterBI" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="certificates/masterpython.jpeg" alt="MasterPython" width="300"/></td>
+    <td><img src="certificates/powerbiadva.jpeg" alt="PowerBI Adv" width="300"/></td>
+    <td><img src="certificates/pythomlforB.jpeg" alt="Python ML for B" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="certificates/pythonMl.jpeg" alt="Python ML" width="300"/></td>
+    <td><img src="certificates/pythondele.jpeg" alt="Python DELE" width="300"/></td>
+    <td><img src="certificates/soc.jpeg" alt="SOC" width="300"/></td>
+  </tr>
+</table>
 
-<img src="certificates/DAbootcamp.jpeg" alt="DAbootcamp" width="300"/>
-
-<img src="certificates/DSFM.jpeg" alt="DSFM" width="300"/>
-
-<img src="certificates/MasterAI.jpeg" alt= "MAster ai " width="300"/>
-
-
-<img src="certificates/ai1.jpeg" alt="AI" width="300"/>
-
-<img src="certificates/devops.jpeg" alt="devops" width="300"/>
-
-
-<img src="certificates/masterBI.jpeg" alt="masterBI" width="300"/>
-
-
-<img src="certificates/masterpython.jpeg" alt="masterpython" width="300"/>
-
-<img src="certificates/powerbiadva.jpeg" alt="powerbiadva" width="300"/>
-
-<img src="certificates/pythomlforB.jpeg" alt="pythomlforB" width="300"/>
-
-
-
-<img src="certificates/pythonMl.jpeg" alt="pythonMl" width="300"/>
-
-<img src="certificates/pythondele.jpeg" alt="pythondele" width="300"/>
-
-
-
-<img src="certificates/soc.jpeg" alt="soc" width="300"/>
 
