@@ -46,10 +46,8 @@ I currently work as a **Data Analyst at MT**, with **2 years of experience** in 
 
   ## 🎓 Certifications
 <center>
-
-
-[![SQL](https://img.shields.io/badge/Udemy-SQL%20Masterclass-green)]([https://www.udemy.com/course/artificial-intelligence-bootcamp-arabic/?couponCode=CP251120G2])
-[![ML](https://img.shields.io/badge/Udemy-Machine%20Learning-red)](LINK)
+  
+[![Ai](https://img.shields.io/badge/Udemy-Machine%20Learning-red)](https://www.udemy.com/certificate/UC-845b33a9-d27a-4f57-814d-777bc35ff79b/)
 
 </center>
 
