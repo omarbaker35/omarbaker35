@@ -3,11 +3,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="50%" align="right">
 </p>
-Hi, I'm **Omar Baker** 👨🏿‍💻  
+Hi, I'm Omar Baker 👨🏿‍💻  
 
 ---
 
-**Data Analyst | Data Scientist | LLM Engineer**
+** Data Analyst | Data Scientist | LLM Engineer **
 
 I'm passionate about understanding data, building intelligent AI systems, and experimenting with modern Large Language Models.  
 I currently work as a **Data Analyst at MT**, with **2 years of experience** in data analysis and AI.
