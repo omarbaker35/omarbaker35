@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="50%" align="right">
 </p>
-Hi, I'm Omar Baker 👨🏿‍💻  
+Hi
+I'm Omar Baker 👨🏿‍💻  
 
 ---
 
