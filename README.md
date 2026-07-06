@@ -142,3 +142,11 @@ FastAPI & Docker     ██████████████░░░░░�
 
 🚀 Featured Focus Areas
 <div align="center"> <table> <tr> <td align="center" width="33%"> <h3>📊 Data Analytics</h3> <p>Dashboards, Reports, KPIs, Business Insights</p> </td> <td align="center" width="33%"> <h3>🤖 AI Models</h3> <p>ML, DL, Classification, Prediction, Anomaly Detection</p> </td> <td align="center" width="33%"> <h3>🧠 LLMs</h3> <p>Prompt Engineering, Fine-Tuning, AI Agents</p> </td> </tr> </table> </div>
+
+---
+
+🌐 Connect With Me
+<div align="center"> <a href="mailto:omar.baker@example.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/omar-baker/"> <img src="https://img.shields.io/badge/LinkedIn-Omar%20Baker-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/OmarBaker"> <img src="https://img.shields.io/badge/GitHub-Omar%20Baker-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+<div align="center"> <img src="https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611704aa2ca4e403287801480a6c753abf45f3e6242&rid=giphy.gif&ct=s" width="180" alt="Developer GIF"/> <br/> <h3>Thanks for visiting my profile ❤️</h3> <p> <b>“Data tells the story, AI builds the future.”</b> </p> </div> ```
+
+---
