@@ -146,7 +146,7 @@ FastAPI & Docker     ██████████████░░░░░�
 ---
 
 🌐 Connect With Me
-<div align="center"> <a href="mailto:omar.baker@example.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/omar-baker/"> <img src="https://img.shields.io/badge/LinkedIn-Omar%20Baker-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/OmarBaker"> <img src="https://img.shields.io/badge/GitHub-Omar%20Baker-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+<div align="center"> <a href="mailto:omar.baker@example.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/omar-baker/"> <img src="[https://img.shields.io/badge/LinkedIn-Omar%20Baker-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/omar-baker-8b2b40353/)"/> </a> <a href="https://github.com/OmarBaker"> <img src="https://img.shields.io/badge/GitHub-Omar%20Baker-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
 <div align="center"> <img src="https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611704aa2ca4e403287801480a6c753abf45f3e6242&rid=giphy.gif&ct=s" width="180" alt="Developer GIF"/> <br/> <h3>Thanks for visiting my profile ❤️</h3> <p> <b>“Data tells the story, AI builds the future.”</b> </p> </div> ```
 
 ---
